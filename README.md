@@ -1,8 +1,8 @@
 # Motion Matrix Login/Sign-up pages
 
 Motion Matrix - full stack web application
-* login page (front-end only)
-* sign up page (front-end only)
+* login page (front-end only): https://chris-alex3.github.io/Motion-Matrix-CA/login.html
+* sign up page (front-end only): https://chris-alex3.github.io/Motion-Matrix-CA/signup.html
 
 Dynamic Background: Vanta.js
 * tutorial: https://www.youtube.com/watch?v=8wJThkaEER4 
