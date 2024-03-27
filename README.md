@@ -1,6 +1,8 @@
 # Motion Matrix Login/Sign-up pages
 
-LINK TO MAIN REPOSITORY - https://github.com/kcsheraj/Motion-Matrix
+
+
+LINK TO MAIN REPOSITORY WITH FULL PROJECT - https://github.com/kcsheraj/Motion-Matrix
 
 Motion Matrix - full stack web application
 * login page (front-end only): https://chris-alex3.github.io/Motion-Matrix-CA/login.html
